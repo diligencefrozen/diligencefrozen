@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 ## Gained experience
 
-## Web
+## Tools
 - [**FakeYTPremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
 
