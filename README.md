@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
 - [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-- [**FakeYTPremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
+- [**FakeYouTubePremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
   
 ## Project
 
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ## Gained experience
 
 ## Javascript
-- [**FakeYTPremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
+- [**FakeYouTubePremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
 
