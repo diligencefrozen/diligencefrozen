@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
 - [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-
+- [**FakeYTPremiumlogo**](https://github.com/diligencefrozen/FakeYTPremiumlogo)
+  
 ## Project
 
 - `2023/03 - 2023/11` : Data-Based Information on Stores Supporting Apple Pay ;**undergraduate student**
