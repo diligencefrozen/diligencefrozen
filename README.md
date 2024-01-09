@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ## Maintenance
 
-- `2021/11` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
-- `2018/12` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
+- `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
+- `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
   
