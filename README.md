@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ## Maintenance
 
-- [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
-- [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
-- [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-- [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
+- `2021/11` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
+- `2018/12` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
+- `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
+- `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
   
 ## Project
 
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ## Gained experience
 
 ## Javascript
-- [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
+- `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
 
