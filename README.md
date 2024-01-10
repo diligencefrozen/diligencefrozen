@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
-- `2024/01` [**ChangeToWebp**](https://github.com/diligencefrozen/ChangeToWebp)
+- `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
 - `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
      
 ## Project
@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
 
 ## Python
-- `2024/01` [**ChangeToWebp**](https://github.com/diligencefrozen/ChangeToWebp)
+- `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
 - `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
   
