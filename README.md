@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
 - `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
 - `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
+- `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
      
 ## Project
 
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 
 ## Javascript
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
+- `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
 
 ## Python
 - `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
