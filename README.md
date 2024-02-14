@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - GitHub : [Diligencefrozen](https://github.com/diligencefrozen)
 - E-Mail : [adguardpro1999@gmail.com](mailto:adguardpro1999@gmail.com)
-- Blog   : [LCTW2022](https://lctw2022.blogspot.com/)
   
 ## Maintenance
 
