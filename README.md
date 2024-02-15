@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 - `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
 - `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-- `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
-- `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
-- `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
-- `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)    
      
 ## Project
@@ -51,7 +47,7 @@ Here are some ideas to get you started:
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
 - `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)    
-
+- `2024/02` [**CHZZKlightmode**](https://github.com/diligencefrozen/CHZZKlightmode)  
 
 ## Python
 - `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
