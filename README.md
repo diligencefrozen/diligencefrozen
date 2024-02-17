@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 - `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
 - `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)    
-- `2024/02` [**CHZZKlightmode**](https://github.com/diligencefrozen/CHZZKlightmode)  
 - `2024/02` [**sspwork**](https://github.com/diligencefrozen/sspwork)
   
 ## Python
