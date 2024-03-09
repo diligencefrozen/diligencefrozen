@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
 - `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
-- `2024/03` [**DiscordChatAnalyzer**](https://github.com/diligencefrozen/DiscordChatAnalyzer)
+- `2024/03` [**DiscordUserRankingChecker**](https://github.com/diligencefrozen/DiscordUserRankingChecker)
 - 
 ## HTML
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
