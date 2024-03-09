@@ -48,23 +48,21 @@ Here are some ideas to get you started:
 - `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)    
 - `2024/02` [**sspwork**](https://github.com/diligencefrozen/sspwork)
-- `2024/03` [**MiraldureschoolMealsExtensions**](https://github.com/diligencefrozen/MiraldureschoolMealsExtensions)   
   
 ## Python
 - `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
 - `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
 - `2024/01` [**ConvertToWebp**](https://github.com/diligencefrozen/ConvertToWebp)
 - `2024/01` [**ConvertToPNG**](https://github.com/diligencefrozen/ConvertToPNG)
-
+- `2024/03` [**DiscordChatAnalyzer**](https://github.com/diligencefrozen/DiscordChatAnalyzer)
+- 
 ## HTML
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)
 - `2024/02` [**sspwork**](https://github.com/diligencefrozen/sspwork)
-- `2024/03` [**MiraldureschoolMealsExtensions**](https://github.com/diligencefrozen/MiraldureschoolMealsExtensions)   
     
 ## CSS
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
 - `2024/02` [**MiraldureschoolMeals**](https://github.com/diligencefrozen/MiraldureschoolMeals)    
 - `2024/02` [**sspwork**](https://github.com/diligencefrozen/sspwork)
-- `2024/03` [**MiraldureschoolMealsExtensions**](https://github.com/diligencefrozen/MiraldureschoolMealsExtensions)   
   
