@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## Python
 - `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
 - `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
-- `2024/04` [**DiscordChatAI**](https://github.com/diligencefrozen/DiscordChatAI)
+- `2024/04` [**Discord Textual Analysis (DTAA)**](https://github.com/diligencefrozen/Discord-Textual-Analysis-DTAA-)
    
 ## HTML
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
