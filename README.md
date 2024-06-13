@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - Name: Diligencefrozen
 - I'm going to make everything I can.
-- I have a strong interest in the fields of data analsis.
 
 ## Contact
 
