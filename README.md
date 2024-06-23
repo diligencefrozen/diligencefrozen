@@ -50,7 +50,6 @@ Here are some ideas to get you started:
    
 ## HTML
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-- `2023/06` [**privateMessenger**](https://github.com/diligencefrozen/privateMessenger)
       
 ## CSS
 - `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
