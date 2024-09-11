@@ -36,22 +36,3 @@ Here are some ideas to get you started:
 ## Project
 
 - `2023/03 - 2023/11` : Data-Based Information on Stores Supporting Apple Pay ;**undergraduate student**
-
-## Gained experience
-
-## Javascript
-- `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-- `2024/01` [**ChangeToYouTubePremiumLogo**](https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo)
-- `2024/01` [**ChangeTheYouTubeLogo**](https://github.com/diligencefrozen/ChangeTheYoutubeLogo/)
-  
-## Python
-- `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
-- `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
-- `2024/07` [**applepay-southkorea-DataAnalysis**](https://github.com/diligencefrozen/applepay-southkorea-DataAnalysis)
-   
-## HTML
-- `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-      
-## CSS
-- `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
-  
