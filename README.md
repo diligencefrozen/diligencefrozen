@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ## Introduction
 
 - Name: Diligencefrozen
-- I'm going to make everything I can.
+- I identify 
+
 
 ## Contact
 
