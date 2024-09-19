@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Introduction
 
 - Name: Diligencefrozen
-- I identify 
+- I identify with
 
 
 ## Contact
