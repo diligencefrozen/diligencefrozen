@@ -26,12 +26,7 @@ Here are some ideas to get you started:
 
 - GitHub : [Diligencefrozen](https://github.com/diligencefrozen)
 - E-Mail : [adguardpro1999@gmail.com](mailto:adguardpro1999@gmail.com)
-  
-## Maintenance
 
-- `2018/12` [**discordbot-main**](https://github.com/diligencefrozen/discordbot-main)
-- `2021/11` [**discordbot-sub**](https://github.com/diligencefrozen/discordbot-sub)
-- `2023/03` [**applepay-southkorea-map**](https://github.com/diligencefrozen/applepay-southkorea-map)
      
 ## Project
 
