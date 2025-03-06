@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## Project
 
 - `2023/03 - 2023/11` : Data-Based Information on Stores Supporting Apple Pay ;**undergraduate student**
-- `2025/03 - 2025/10` : Develop insights into leveraging controversial content effectively across different platforms to maximize reach and engagement. ;
+- `2025/03 - 2025/10` : Viral Wave Project ;
