@@ -31,5 +31,5 @@ Here are some ideas to get you started:
      
 ## Project
 
-- `2023/03 - 2023/11` : Data-Based Information on Stores Supporting Apple Pay ;**undergraduate student**
+- `2023/03 - 2023/11` : <a href="https://github.com/diligencefrozen/south-korea-apple-pay-map">Data-Based Information on Stores Supporting Apple Pay</a> ;**undergraduate student**
 
