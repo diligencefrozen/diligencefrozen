@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 * `2026/06/30 - 2026/07/22` : Regional Traffic Volume Prediction Project ;**SOLDESK Academy team project**
   Traffic volume prediction project using public data portal datasets and data scraping.
 
-* `2026/07/23 - 2026/08/31` : <a href="https://github.com/ESP828/SD_Project2">FoodDuck</a> ;**SOLDESK Academy team project**
+* `2026/07/23 - 2026/08/31` : <a href="https://github.com/ESP828/SD_Project_FD">FoodDuck</a> ;**SOLDESK Academy team project**
   Restaurant recommendation platform using Natural Language Processing and similarity calculation.
