@@ -34,7 +34,15 @@ Status: Actively maintained
 
 `2026/07/23 - 2026/08/31` · SOLDESK Bootcamp Team Project
 
-Team web application project for restaurant discovery, personalized recommendations, community features, and restaurant management.
+Restaurant discovery and community web service built with Java 17, Spring Boot, MySQL, Spring Data JPA, and Spring Security.
+
+My role: Board backend
+
+- Implemented REST APIs for post and comment CRUD operations and post likes
+- Built the board domain, DTO, repository, service, mapper, and exception-handling layers
+- Implemented access-control rules for general and business boards, including author, business-owner, and admin permissions
+- Added duplicate-submission protection for posts and comments
+- Wrote service, policy, and controller integration tests for core board behavior
 
 ---
 
@@ -77,11 +85,11 @@ Data-driven project designed to provide information about stores that support Ap
 
 ### Backend & Web
 
-`Spring MVC` `JSP` `MyBatis` `jQuery`
+`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security` `JSP` `MyBatis` `jQuery`
 
 ### Data
 
-`pandas` `NumPy` `Matplotlib` `Oracle Database`
+`pandas` `NumPy` `Matplotlib` `MySQL` `Oracle Database`
 
 ### Other
 
@@ -128,7 +136,15 @@ DCinside에서 사용자가 원하지 않는 콘텐츠를 직접 걸러낼 수 �
 
 `2026/07/23 - 2026/08/31` · SOLDESK 부트캠프 팀 프로젝트
 
-맛집 탐색, 개인화 추천, 커뮤니티, 음식점 관리 기능을 함께 구현하는 팀 웹 애플리케이션 프로젝트입니다.
+Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한 맛집 탐색·커뮤니티 웹 서비스입니다.
+
+담당: 게시판 백엔드
+
+- 게시글·댓글 CRUD와 게시글 좋아요 REST API 구현
+- 게시판 도메인, DTO, Repository, Service, Mapper, 예외 처리 계층 구성
+- 일반·사업자 게시판의 접근 권한과 작성자·사업자·관리자 권한 검증 로직 구현
+- 게시글·댓글의 짧은 시간 내 중복 등록을 막는 로직 구현
+- 게시판 Service, 권한 정책, Controller 통합 테스트 작성
 
 ---
 
@@ -174,11 +190,11 @@ Apple Pay를 지원하는 매장 정보를 데이터 기반으로 제공하기 �
 
 ### 백엔드 및 웹
 
-`Spring MVC` `JSP` `MyBatis` `jQuery`
+`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security` `JSP` `MyBatis` `jQuery`
 
 ### 데이터
 
-`pandas` `NumPy` `Matplotlib` `Oracle Database`
+`pandas` `NumPy` `Matplotlib` `MySQL` `Oracle Database`
 
 ### 기타
 
