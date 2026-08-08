@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 * `2026/05/29 - 2026/06/05` : <a href="https://github.com/diligencefrozen/DollarWatch">DollarWatch</a> ;**SOLDESK Bootcamp personal project**
   Exchange-rate tracking web application using Java, Spring MVC, JSP, MyBatis, Oracle DB, and jQuery.
 
-* `2026/07/01 - 2026/07/22` : Regional Traffic Volume Prediction Project ;**SOLDESK Bootcamp team project**
+* `2026/07/01 - 2026/07/22` : <a href="https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting">Seoul Traffic Data Analysis & Forecasting</a> ;**SOLDESK Bootcamp team project**
   Traffic volume prediction project using public data portal datasets and data scraping.
 
 * `2026/07/23 - 2026/08/31` : <a href="https://github.com/ESP828/SD_Project_FD">FoodDuck</a> ;**SOLDESK Bootcamp team project**
