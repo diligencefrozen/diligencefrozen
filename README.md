@@ -36,13 +36,14 @@ Status: Actively maintained
 
 Restaurant discovery and community web service built with Java 17, Spring Boot, MySQL, Spring Data JPA, and Spring Security.
 
-My role: Board backend
+My role: Board feature development across backend, selected frontend screens, and board-related database schema
 
 - Implemented REST APIs for post and comment CRUD operations and post likes
-- Built the board domain, DTO, repository, service, mapper, and exception-handling layers
+- Built the board domain, DTO, repository, service, mapper, access policy, and exception-handling layers
+- Worked on board frontend pages for post lists, search/filtering, post details, comments, likes, and post creation/editing
+- Worked on board-related database structures, including post, post_comment, and post_like tables and their relationships
 - Implemented access-control rules for general and business boards, including author, business-owner, and admin permissions
-- Added duplicate-submission protection for posts and comments
-- Wrote service, policy, and controller integration tests for core board behavior
+- Added duplicate-submission protection and wrote service, policy, and controller integration tests
 
 ---
 
@@ -138,13 +139,14 @@ DCinside에서 사용자가 원하지 않는 콘텐츠를 직접 걸러낼 수 �
 
 Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한 맛집 탐색·커뮤니티 웹 서비스입니다.
 
-담당: 게시판 백엔드
+담당: 게시판 기능 개발 — 백엔드, 일부 프론트엔드, 게시판 관련 DB 영역
 
 - 게시글·댓글 CRUD와 게시글 좋아요 REST API 구현
-- 게시판 도메인, DTO, Repository, Service, Mapper, 예외 처리 계층 구성
-- 일반·사업자 게시판의 접근 권한과 작성자·사업자·관리자 권한 검증 로직 구현
-- 게시글·댓글의 짧은 시간 내 중복 등록을 막는 로직 구현
-- 게시판 Service, 권한 정책, Controller 통합 테스트 작성
+- 게시판 Domain, DTO, Repository, Service, Mapper, 접근 권한 정책, 예외 처리 계층 구성
+- 게시글 목록·검색·분류, 상세, 댓글·좋아요, 작성·수정 화면 등 게시판 프론트엔드 일부 구현
+- `post`, `post_comment`, `post_like` 등 게시판 관련 테이블과 연관 관계 구성에 참여
+- 일반·사업자 게시판의 작성자·사업자·관리자 권한 검증 로직 구현
+- 중복 등록 방지 로직과 Service·권한 정책·Controller 통합 테스트 작성
 
 ---
 
