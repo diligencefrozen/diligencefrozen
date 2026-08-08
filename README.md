@@ -14,11 +14,9 @@ and improving what I build through continued use and feedback.
 
 ## Projects
 
-### DCinside Gallery Blocker
+### [DCinside Gallery Blocker](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
 `2025 - Present` · Independent Project
-
-[GitHub Repository](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
 Chrome extension that gives users more control over the content they see on DCinside.
 
@@ -32,17 +30,15 @@ Status: Actively maintained
 
 ---
 
-### FoodDuck
+### [FoodDuck](https://github.com/ESP828/SD_Project_FD)
 
-`2026/07 - Present` · SOLDESK Bootcamp Team Project
+`2026/07/23 - 2026/08/31` · SOLDESK Bootcamp Team Project
 
-Team web application currently being developed as part of the SOLDESK bootcamp.
-
-Status: In progress
+Team web application project for restaurant discovery, personalized recommendations, community features, and restaurant management.
 
 ---
 
-### Seoul Traffic Analysis & Forecasting
+### [Seoul Traffic Analysis & Forecasting](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
 
 `2026/07/01 - 2026/07/22` · SOLDESK Bootcamp Team Project
 
@@ -55,7 +51,7 @@ Data analysis and forecasting project based on Seoul traffic-volume data from 20
 
 ---
 
-### DollarWatch
+### [DollarWatch](https://github.com/diligencefrozen/DollarWatch)
 
 `2026/05/29 - 2026/06/05` · SOLDESK Bootcamp Personal Project
 
@@ -65,7 +61,7 @@ Exchange-rate tracking web application built with:
 
 ---
 
-### Data-Based Information on Stores Supporting Apple Pay
+### [Data-Based Information on Stores Supporting Apple Pay](https://github.com/diligencefrozen/PayKR)
 
 `2023/03 - 2023/11` · Undergraduate Project
 
@@ -112,11 +108,9 @@ Data-driven project designed to provide information about stores that support Ap
 
 ## 프로젝트
 
-### DCinside Gallery Blocker
+### [DCinside Gallery Blocker](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
 `2025 - 현재` · 개인 프로젝트
-
-[GitHub 저장소](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
 DCinside에서 사용자가 원하지 않는 콘텐츠를 직접 걸러낼 수 있도록 만든 Chrome 확장 프로그램입니다.
 
@@ -130,17 +124,15 @@ DCinside에서 사용자가 원하지 않는 콘텐츠를 직접 걸러낼 수 �
 
 ---
 
-### FoodDuck
+### [FoodDuck](https://github.com/ESP828/SD_Project_FD)
 
-`2026/07 - 현재` · SOLDESK 부트캠프 팀 프로젝트
+`2026/07/23 - 2026/08/31` · SOLDESK 부트캠프 팀 프로젝트
 
-SOLDESK 부트캠프에서 진행하고 있는 팀 웹 애플리케이션 프로젝트입니다.
-
-현재 상태: 개발 진행 중
+맛집 탐색, 개인화 추천, 커뮤니티, 음식점 관리 기능을 함께 구현하는 팀 웹 애플리케이션 프로젝트입니다.
 
 ---
 
-### 서울시 교통량 분석 및 예측
+### [서울시 교통량 분석 및 예측](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
 
 `2026/07/01 - 2026/07/22` · SOLDESK 부트캠프 팀 프로젝트
 
@@ -154,7 +146,7 @@ SOLDESK 부트캠프에서 진행하고 있는 팀 웹 애플리케이션 프로
 
 ---
 
-### DollarWatch
+### [DollarWatch](https://github.com/diligencefrozen/DollarWatch)
 
 `2026/05/29 - 2026/06/05` · SOLDESK 부트캠프 개인 프로젝트
 
@@ -166,7 +158,7 @@ SOLDESK 부트캠프에서 진행하고 있는 팀 웹 애플리케이션 프로
 
 ---
 
-### Apple Pay 지원 매장 데이터 기반 정보 제공
+### [Apple Pay 지원 매장 데이터 기반 정보 제공](https://github.com/diligencefrozen/PayKR)
 
 `2023/03 - 2023/11` · 학부 프로젝트
 
