@@ -18,15 +18,16 @@ and improving what I build through continued use and feedback.
 
 `2025 - Present` · Independent Project
 
-Chrome extension that gives users more control over the content they see on DCinside.
+Chrome extension for **DCinside, a major South Korean online community and discussion platform**, that helps users filter out content they do not want to see.
 
-- Built with JavaScript, HTML, CSS, Chrome Extension APIs, and Manifest V3
-- Filters galleries, posts, comments, users, keywords, images, and other unwanted content
-- Published on the Chrome Web Store
-- Maintained through bug fixes, feature updates, and user feedback
-- Refactored parts of the storage and filtering architecture as the project grew
+* Built with JavaScript, HTML, CSS, Chrome Extension APIs, and Manifest V3
+* Filters galleries, posts, comments, users, keywords, images, and other unwanted content
+* Published on the Chrome Web Store
+* Continuously maintained through bug fixes, feature improvements, and user feedback
+* Refactored parts of the storage and filtering architecture as the project grew
 
 Status: Actively maintained
+
 
 ---
 
@@ -121,15 +122,16 @@ Data-driven project designed to provide information about stores that support Ap
 
 `2025 - 현재` · 개인 프로젝트
 
-DCinside에서 사용자가 원하지 않는 콘텐츠를 직접 걸러낼 수 있도록 만든 Chrome 확장 프로그램입니다.
+**국내 대형 온라인 커뮤니티인 DCinside**에서 사용자가 보고 싶지 않은 콘텐츠를 직접 걸러낼 수 있도록 만든 Chrome 확장 프로그램입니다.
 
-- JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3 기반 개발
-- 갤러리, 게시글, 댓글, 사용자, 키워드, 이미지 등 콘텐츠 필터링
-- Chrome Web Store 배포
-- 사용자 피드백을 반영해 버그 수정과 기능 업데이트 진행
-- 프로젝트 규모가 커지면서 저장소와 필터링 구조 일부 리팩터링
+* JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3 기반으로 개발
+* 갤러리, 게시글, 댓글, 사용자, 키워드, 이미지 등 원하지 않는 콘텐츠 필터링
+* Chrome Web Store에 배포
+* 사용자 의견을 반영해 버그를 수정하고 기능을 지속적으로 개선
+* 기능이 늘어남에 따라 데이터 저장 방식과 필터링 구조 일부를 리팩터링
 
-현재 상태: 유지보수 및 개발 진행 중
+현재 상태: 개발 및 유지보수 진행 중
+
 
 ---
 
