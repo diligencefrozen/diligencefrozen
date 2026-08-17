@@ -26,7 +26,7 @@ Chrome extension for **DCinside, a major South Korean online community**, that a
 
 ### Features
 
-- Filters galleries, posts, comments, users, keywords, images, and DCCon content
+- Filters galleries, posts, comments, users, keywords, images, and **DCCon stickers (DCinside's custom emoji/sticker feature)**
 - Supports user blocking by UID, IP, and nickname
 - Provides keyword blocking and content-hiding options
 - Stores user settings and block lists locally in the browser
@@ -38,7 +38,7 @@ Chrome extension for **DCinside, a major South Korean online community**, that a
 - Built and published independently on the Chrome Web Store
 - Continuously maintained through bug fixes and feature improvements
 - Improved features and UI based on actual user bug reports and feature requests
-- Added features such as keyword hiding, nickname blocking, selective DCCon blocking, and settings export based on user feedback
+- Added features such as keyword hiding, nickname blocking, selective **DCCon sticker blocking**, and settings export based on user feedback
 - Refactored parts of the filtering and storage logic as the extension grew
 
 ### Current Status
