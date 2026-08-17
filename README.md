@@ -30,7 +30,7 @@ Chrome extension for **DCinside, a major South Korean online community**, that a
 - Supports user blocking by UID, IP, and nickname
 - Provides keyword blocking and content-hiding options
 - Stores user settings and block lists locally in the browser
-- Supports backup and restore of user settings
+- Supports exporting user settings and block lists
 - Allows users to enable or disable filtering features individually
 
 ### Development & Maintenance
@@ -38,7 +38,7 @@ Chrome extension for **DCinside, a major South Korean online community**, that a
 - Built and published independently on the Chrome Web Store
 - Continuously maintained through bug fixes and feature improvements
 - Improved features and UI based on actual user bug reports and feature requests
-- Added features such as keyword hiding, nickname blocking, selective DCCon blocking, and easier unblock controls
+- Added features such as keyword hiding, nickname blocking, selective DCCon blocking, and settings export based on user feedback
 - Refactored parts of the filtering and storage logic as the extension grew
 
 ### Current Status
@@ -315,7 +315,7 @@ Chrome 확장 프로그램입니다.
 - UID, IP, 닉네임을 이용한 사용자 차단
 - 키워드 차단 및 숨기기 기능
 - 사용자 설정과 차단 목록을 브라우저에 저장
-- 설정 및 차단 목록 백업·복원
+- 사용자 설정 및 차단 목록 내보내기
 - 기능별 개별 ON/OFF 설정
 
 ### 개발 및 유지보수
@@ -323,8 +323,7 @@ Chrome 확장 프로그램입니다.
 - 개인 프로젝트로 기획, 개발, 테스트 및 배포
 - Chrome 웹스토어에 직접 배포 후 지속적으로 유지보수
 - 실제 사용자가 남긴 오류 제보와 기능 요청을 업데이트에 반영
-- 사용자 의견을 바탕으로 키워드 숨기기, 닉네임 차단,
-  개별·그룹 디시콘 차단, 간편 차단 해제 등의 기능 추가
+- 사용자 의견을 바탕으로 키워드 숨기기, 닉네임 차단, 개별·디시콘 그룹 차단, 설정 내보내기 등의 기능 추가
 - 기능이 늘어남에 따라 필터링과 데이터 저장 구조 일부 개선
 
 ### 현재 상태
