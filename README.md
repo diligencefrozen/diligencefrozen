@@ -1,10 +1,11 @@
 # Hi, I'm Diligencefrozen 👋
 
-Software developer interested in building practical software,
-from web applications and data analysis tools to browser extensions.
+Software developer currently focused on Java and Spring-based web development.
 
-I enjoy finding real problems, turning them into working software,
-and improving what I build through continued use and feedback.
+I enjoy finding practical problems, turning them into working software,
+and improving what I build through continued use, testing, and user feedback.
+
+My experience includes web applications, data analysis, and browser extensions.
 
 ## About Me
 
@@ -16,15 +17,17 @@ and improving what I build through continued use and feedback.
 
 ### [DCinside Gallery Blocker](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
-`2025 - Present` · Independent Project
+`2025/07 - Present` · Independent Project
 
-Chrome extension for **DCinside, a major South Korean online community and discussion platform**, that helps users filter out content they do not want to see.
+Chrome extension for **DCinside, a major South Korean online community**, that allows users to filter content they do not want to see.
 
-* Built with JavaScript, HTML, CSS, Chrome Extension APIs, and Manifest V3
-* Filters galleries, posts, comments, users, keywords, images, and other unwanted content
-* Published on the Chrome Web Store
-* Continuously maintained through bug fixes, feature improvements, and user feedback
-* Refactored parts of the storage and filtering architecture as the project grew
+- Built with JavaScript, HTML, CSS, Chrome Extension APIs, and Manifest V3
+- Filters galleries, posts, comments, users, keywords, images, and DCCon content
+- Stores user settings and block lists locally in the browser
+- Published and continuously maintained on the Chrome Web Store
+- Improved features and UI based on actual user bug reports and feature requests
+- Added features such as keyword hiding, nickname blocking, selective DCCon blocking, and easier unblock controls
+- Currently used by **823 users**, with a **4.8/5 rating from 18 ratings**
 
 Status: Actively maintained
 
@@ -33,31 +36,29 @@ Status: Actively maintained
 
 ### [FoodDuck](https://github.com/ESP828/SD_Project_FD)
 
-`2026/07/23 - 2026/08/31` · SOLDESK Bootcamp Team Project
+`2026/07 - 2026/08` · SOLDESK Bootcamp Team Project
 
-Restaurant discovery and community web service built with Java 17, Spring Boot, MySQL, Spring Data JPA, and Spring Security.
+Restaurant discovery and community web service built with
+Java 17, Spring Boot, MySQL, Spring Data JPA, and Spring Security.
 
-My role: Board feature development across backend and selected frontend screens, with a limited database contribution
+Main service features include restaurant discovery, recommendations,
+community boards, restaurant detail pages, and restaurant news.
 
-- Implemented REST APIs for post and comment CRUD operations and post likes
-- Built the board domain, DTO, repository, service, mapper, access policy, and exception-handling layers
-- Worked on selected board frontend pages, including post lists, search/filtering, post details, comments, likes, and post creation/editing
-- Wrote the database queries used for image and video uploads in the board feature
-- Implemented access-control rules for general and business boards, including author, business-owner, and admin permissions
-- Added duplicate-submission protection and wrote service, policy, and controller integration tests
+My contribution focused on the community and board features.
 
----
+- Developed backend features for general and business community boards
+- Implemented post and comment create, read, update, and delete operations
+- Added replies and image attachments to comments
+- Implemented user activity views for previous posts and comments, with additional private information such as favorites and notifications available to the account owner
+- Reused existing board functionality to connect restaurant-specific news posts with comments and media
+- Worked on selected HTML, CSS, and JavaScript screens required for the board features
+- Participated in integrating frontend, backend, and database functionality as the team adjusted its development workflow
 
-### [Seoul Traffic Analysis & Forecasting](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
+Tech Stack:
 
-`2026/07/01 - 2026/07/22` · SOLDESK Bootcamp Team Project
+`Java 17` · `Spring Boot` · `Spring MVC` · `Spring Security`  
+`Spring Data JPA` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Maven`
 
-Data analysis and forecasting project based on Seoul traffic-volume data from 2020 to 2025.
-
-- Analyzed traffic patterns by time of day, weekday, date, and location
-- Forecast traffic volume for 2026–2030 using trend-based regression
-- Built data-processing and visualization workflows with Python, pandas, NumPy, and Matplotlib
-- Implemented selected-date congestion forecasting and analysis
 
 ---
 
@@ -65,9 +66,44 @@ Data analysis and forecasting project based on Seoul traffic-volume data from 20
 
 `2026/05/29 - 2026/06/05` · SOLDESK Bootcamp Personal Project
 
-Exchange-rate tracking web application built with:
+Exchange-rate lookup, favorite currency management, and community web application built with Spring MVC.
 
-`Java` · `Spring MVC` · `JSP` · `MyBatis` · `Oracle Database` · `jQuery`
+- Integrated ExchangeRate-API for current exchange rates
+- Integrated Frankfurter API for recent 7-day exchange-rate trends
+- Processed different external API response formats on the server and returned the required data to the frontend
+- Used AJAX to update exchange-rate information without reloading the entire page
+- Implemented sign-up, login, and logout with HttpSession
+- Added user-specific search history and favorite currency-pair management
+- Implemented a community board with posts, comments, and image attachments
+- Connected member, history, favorites, posts, and comments to Oracle Database using MyBatis
+
+Tech Stack:
+
+`Java 8` · `Spring MVC` · `MyBatis` · `Oracle Database`  
+`JSP` · `JSTL` · `JavaScript` · `jQuery` · `AJAX` · `Tomcat` · `Maven`
+
+
+---
+
+### [Seoul Traffic Analysis & Forecasting](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
+
+`2026/06 - 2026/07` · SOLDESK Bootcamp Team Project
+
+Team data-analysis project using Seoul traffic-volume data from 2020 to 2025
+to analyze traffic patterns and estimate traffic volume for 2026–2030.
+
+My contribution focused on congestion analysis for a selected date and time period.
+
+- Selected Children's Day as a representative case to keep the analysis scope clear and allow year-to-year comparison
+- Used the point where the top 10% of 2025 traffic volume begins for each station and direction as a relative congestion baseline
+- Compared predicted traffic volume against the baseline to calculate relative congestion levels
+- Visualized the results with four charts, including congested locations, peak hours, weekday/time patterns, and congestion-level distributions
+- Documented that the relative congestion score represents comparison with past traffic levels rather than road capacity
+
+Tech Stack:
+
+`Python` · `pandas` · `Matplotlib` · `Google Colab` · `GitHub`
+
 
 ---
 
@@ -75,7 +111,9 @@ Exchange-rate tracking web application built with:
 
 `2023/03 - 2023/11` · Undergraduate Project
 
-Data-driven project designed to provide information about stores that support Apple Pay.
+Undergraduate project designed to provide information about stores
+that support Apple Pay using collected and organized store data.
+
 
 ---
 
@@ -87,15 +125,18 @@ Data-driven project designed to provide information about stores that support Ap
 
 ### Backend & Web
 
-`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security` `JSP` `MyBatis` `jQuery`
+`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security`  
+`JSP` `JSTL` `MyBatis` `jQuery` `AJAX`
 
-### Data
+### Database & Data
 
-`pandas` `NumPy` `Matplotlib` `MySQL` `Oracle Database`
+`MySQL` `Oracle Database` `pandas` `Matplotlib`
 
-### Other
+### Tools & Platforms
 
-`Chrome Extension APIs` `Manifest V3` `Git` `GitHub`
+`Apache Tomcat` `Maven` `Git` `GitHub`  
+`Chrome Extension APIs` `Manifest V3`
+
 
 ---
 
@@ -104,11 +145,12 @@ Data-driven project designed to provide information about stores that support Ap
 
 # 안녕하세요, Diligencefrozen입니다 👋
 
-웹 애플리케이션, 데이터 분석, 브라우저 확장 프로그램 등
-실제로 사용할 수 있는 소프트웨어를 만드는 데 관심이 있는 개발자입니다.
+현재 Java와 Spring 기반 웹 개발을 중심으로 경험을 쌓고 있는 개발자입니다.
 
 생활 속 문제를 발견하고 직접 소프트웨어로 구현한 뒤,
-실제 사용 과정에서 얻은 피드백을 바탕으로 계속 개선하는 것을 좋아합니다.
+테스트와 실제 사용 과정에서 얻은 의견을 바탕으로 계속 개선하는 것을 좋아합니다.
+
+웹 애플리케이션, 데이터 분석, 브라우저 확장 프로그램을 개발한 경험이 있습니다.
 
 ## 소개
 
@@ -118,51 +160,49 @@ Data-driven project designed to provide information about stores that support Ap
 
 ## 프로젝트
 
-### [DCinside Gallery Blocker](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
+### [디시갤 차단기](https://github.com/diligencefrozen/DCinside-Gallery-Blocker)
 
-`2025 - 현재` · 개인 프로젝트
+`2025/07 - 현재` · 개인 개발 프로젝트
 
 **국내 대형 온라인 커뮤니티인 DCinside**에서 사용자가 보고 싶지 않은 콘텐츠를 직접 걸러낼 수 있도록 만든 Chrome 확장 프로그램입니다.
 
-* JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3 기반으로 개발
-* 갤러리, 게시글, 댓글, 사용자, 키워드, 이미지 등 원하지 않는 콘텐츠 필터링
-* Chrome Web Store에 배포
-* 사용자 의견을 반영해 버그를 수정하고 기능을 지속적으로 개선
-* 기능이 늘어남에 따라 데이터 저장 방식과 필터링 구조 일부를 리팩터링
+- JavaScript, HTML, CSS, Chrome Extension APIs, Manifest V3 기반으로 개발
+- 갤러리, 게시글, 댓글, 사용자, 키워드, 이미지, 디시콘 등 원하지 않는 콘텐츠 필터링
+- 사용자 설정과 차단 목록을 브라우저 로컬에 저장
+- Chrome 웹스토어에 직접 배포하고 지속적으로 유지보수
+- 실제 사용자의 오류 제보와 기능 요청을 확인하고 업데이트에 반영
+- 키워드 숨기기, 닉네임 차단, 개별·그룹 디시콘 차단, 간편 차단 해제 등 사용자 의견을 반영한 기능 추가
+- 현재 **823명의 사용자**, **18개 평가 기준 평점 4.8/5점** 기록
 
 현재 상태: 개발 및 유지보수 진행 중
 
 
 ---
 
-### [FoodDuck](https://github.com/ESP828/SD_Project_FD)
+### [푸드덕 FoodDuck](https://github.com/ESP828/SD_Project_FD)
 
-`2026/07/23 - 2026/08/31` · SOLDESK 부트캠프 팀 프로젝트
+`2026/07 - 2026/08` · SOLDESK 부트캠프 팀 프로젝트
 
-Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한 맛집 탐색·커뮤니티 웹 서비스입니다.
+Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한
+맛집 탐색 및 커뮤니티 웹 서비스입니다.
 
-담당: 게시판 백엔드, 일부 프론트엔드, 사진·동영상 업로드 관련 DB 쿼리
+맛집 탐색, 추천, 커뮤니티, 음식점 상세 정보와 가게 소식 등의 기능을 구현했습니다.
 
-- 게시글·댓글 CRUD와 게시글 좋아요 REST API 구현
-- 게시판 Domain, DTO, Repository, Service, Mapper, 접근 권한 정책, 예외 처리 계층 구성
-- 게시글 목록·검색·분류, 상세, 댓글·좋아요, 작성·수정 화면 등 게시판 프론트엔드 일부 구현
-- 게시판의 사진·동영상 업로드에 필요한 DB 쿼리 작성
-- 일반·사업자 게시판의 작성자·사업자·관리자 권한 검증 로직 구현
-- 중복 등록 방지 로직과 Service·권한 정책·Controller 통합 테스트 작성
+담당 영역은 일반·사업자 커뮤니티 및 게시판 기능입니다.
 
----
+- 일반·사업자 커뮤니티 게시판 백엔드 기능 구현
+- 게시글·댓글 작성, 조회, 수정, 삭제 기능 구현
+- 댓글 답글 및 이미지 첨부 기능 구현
+- 작성자의 이전 게시글·댓글을 조회하고, 본인 계정에서는 찜 목록과 알림까지 확인할 수 있는 활동 조회 기능 구현
+- 기존 게시판 기능을 활용하여 음식점별 가게 소식에 댓글과 미디어 기능 연동
+- 담당 게시판에 필요한 HTML, CSS, JavaScript 화면 일부 구현
+- 프로젝트 후반에는 담당 기능의 프론트엔드와 백엔드를 직접 연결하여 화면에서 실제 동작하는 상태까지 구현
 
-### [서울시 교통량 분석 및 예측](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
+사용 기술:
 
-`2026/07/01 - 2026/07/22` · SOLDESK 부트캠프 팀 프로젝트
+`Java 17` · `Spring Boot` · `Spring MVC` · `Spring Security`  
+`Spring Data JPA` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Maven`
 
-2020~2025년 서울시 교통량 데이터를 분석하고
-2026~2030년 교통량을 예측한 데이터 분석 프로젝트입니다.
-
-- 시간대, 요일, 날짜, 지역별 교통량 패턴 분석
-- 연도별 추세 기반 회귀 모델을 이용한 2026~2030년 교통량 예측
-- Python, pandas, NumPy, Matplotlib 기반 데이터 처리 및 시각화
-- 특정 날짜의 시간대별 혼잡도 예측 기능 담당
 
 ---
 
@@ -170,11 +210,44 @@ Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한 맛�
 
 `2026/05/29 - 2026/06/05` · SOLDESK 부트캠프 개인 프로젝트
 
-환율 정보를 조회하고 추적할 수 있도록 만든 웹 애플리케이션입니다.
+환율 조회, 관심 통화 관리와 커뮤니티 기능을 제공하는 Spring MVC 기반 웹 애플리케이션입니다.
+
+- ExchangeRate-API를 이용한 현재 환율 조회
+- Frankfurter API를 이용한 최근 7일 환율 흐름 조회
+- 서로 다른 외부 API 응답을 서버에서 필요한 데이터로 가공하여 화면에 전달
+- AJAX를 활용하여 페이지 전체를 새로고침하지 않고 환율 결과 표시
+- HttpSession 기반 회원가입, 로그인 및 로그아웃 기능 구현
+- 사용자별 최근 조회 기록과 관심 통화쌍 관리
+- 게시글·댓글 및 이미지 첨부 기능을 포함한 커뮤니티 구현
+- MyBatis와 Oracle DB를 활용하여 회원, 검색 기록, 관심 통화, 게시글 및 댓글 데이터 관리
 
 사용 기술:
 
-`Java` · `Spring MVC` · `JSP` · `MyBatis` · `Oracle Database` · `jQuery`
+`Java 8` · `Spring MVC` · `MyBatis` · `Oracle Database`  
+`JSP` · `JSTL` · `JavaScript` · `jQuery` · `AJAX` · `Tomcat` · `Maven`
+
+
+---
+
+### [서울시 교통량 분석 및 예측](https://github.com/diligencefrozen/seoul-traffic-analysis-forecasting)
+
+`2026/06 - 2026/07` · SOLDESK 부트캠프 팀 프로젝트
+
+2020~2025년 서울시 교통량 데이터를 분석하고
+2026~2030년의 교통량을 예측한 데이터 분석 프로젝트입니다.
+
+담당 영역은 특정 날짜와 시간대의 예상 혼잡도 분석입니다.
+
+- 분석 범위를 명확하게 하기 위해 매년 날짜가 같은 어린이날을 대표 사례로 선정
+- 측정 지점과 유입·유출 방향별 2025년 교통량 상위 10%가 시작되는 값을 상대 혼잡도 기준으로 설정
+- 예상 교통량을 기준값과 비교하여 상대적인 혼잡도 지수 계산
+- 혼잡 지점 TOP5, 연도별 최고 혼잡 시간, 요일·시간대별 패턴, 혼잡도 등급 비율을 네 가지 그래프로 시각화
+- 혼잡도 100%가 도로의 최대 수용량이 아닌 과거 교통량과 비교하기 위한 기준임을 명시
+
+사용 기술:
+
+`Python` · `pandas` · `Matplotlib` · `Google Colab` · `GitHub`
+
 
 ---
 
@@ -182,7 +255,9 @@ Java 17, Spring Boot, MySQL, Spring Data JPA, Spring Security를 사용한 맛�
 
 `2023/03 - 2023/11` · 학부 프로젝트
 
-Apple Pay를 지원하는 매장 정보를 데이터 기반으로 제공하기 위해 진행한 프로젝트입니다.
+Apple Pay를 지원하는 매장 정보를 수집하고 정리하여
+사용자에게 관련 정보를 제공하기 위해 진행한 프로젝트입니다.
+
 
 ---
 
@@ -194,14 +269,16 @@ Apple Pay를 지원하는 매장 정보를 데이터 기반으로 제공하기 �
 
 ### 백엔드 및 웹
 
-`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security` `JSP` `MyBatis` `jQuery`
+`Spring MVC` `Spring Boot` `Spring Data JPA` `Spring Security`  
+`JSP` `JSTL` `MyBatis` `jQuery` `AJAX`
 
-### 데이터
+### 데이터베이스 및 데이터
 
-`pandas` `NumPy` `Matplotlib` `MySQL` `Oracle Database`
+`MySQL` `Oracle Database` `pandas` `Matplotlib`
 
-### 기타
+### 도구 및 플랫폼
 
-`Chrome Extension APIs` `Manifest V3` `Git` `GitHub`
+`Apache Tomcat` `Maven` `Git` `GitHub`  
+`Chrome Extension APIs` `Manifest V3`
 
 </details>
